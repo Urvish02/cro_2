@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "718652180201",
+    "project_id": "quiz-fire02",
+    "storage_bucket": "quiz-fire02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718652180201:android:2f800a5fd390ff65181278",
+        "android_client_info": {
+          "package_name": "com.urvish.quiz_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718652180201-1uo0gr02rlp2nojpcv81384dh2b8ftne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDULFzHF1wXAx-t1ocUIx8TO2NaEknKlyg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718652180201-1uo0gr02rlp2nojpcv81384dh2b8ftne.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
